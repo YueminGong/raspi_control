@@ -15,3 +15,10 @@ File transfers
 System time setting
 
 OLED display control
+
+
+
+pi_final run in raspi
+code_test run in pc
+
+this is a useful code for raspi control use udp command
