@@ -1,0 +1,17 @@
+The script creates a server that can receive commands via UDP and handle file transfers via TCP. It integrates various Raspberry Pi peripherals and capabilities including:
+
+Camera control (single/continuous capture, video recording)
+
+Audio recording and playback
+
+GPIO/LED control
+
+Serial communication
+
+HDMI video output
+
+File transfers
+
+System time setting
+
+OLED display control
